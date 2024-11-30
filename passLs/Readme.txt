@@ -1,4 +1,4 @@
-Password List Generator Is Created By: HackZeee (Length And Words Are Editable.)
+Password List Generator Is Created By: HackZeee (https://www.facebook.com/sintho.jahan.)Control + Shift + m
 
 
 * To Edit Length & Words Follow Commands Below.
@@ -6,9 +6,9 @@ Password List Generator Is Created By: HackZeee (Length And Words Are Editable.)
   apt install nano
   nano run.py
   
- set1 = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '@', '#', '$', '%', '-'] (Edit Words Enter Words Between ' ')
+ set1 = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'o', 'p', 'q', 'r', 's', 't', '6', '7', '9', '$', '(', 'r', '1', '2', '8', '4', '5', '6', '7', '8', '9', '0', '@', '#', '$', '%', 'esc'] (Edit Words Enter Words Between ' esc')
 
- k = 2 (Edit 2 For Change Pass Length)
+ k = 8tab (Edit 8For Change Pass Length)
      
 
 
